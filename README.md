@@ -3,7 +3,7 @@ Scripts to Extract Random Reads from Nanopore FASTQ File
 
 Run the script as 
 
-bash main.sh <PATH OF ONT FASTQ FILE> <NUMBER OF RANDOM READS REQUIRED> <NUMBER OF SIMULATIONS>
+bash main.sh "<PATH OF ONT FASTQ FILE>" "<NUMBER OF RANDOM READS REQUIRED>" "<NUMBER OF SIMULATIONS>"
 
 #Recomended number of simulations is of atleast 1000
 #Resuls will be in a new folder named "Random_reads" created in your Present working directory
