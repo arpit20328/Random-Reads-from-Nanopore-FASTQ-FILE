@@ -12,4 +12,5 @@ bash  main.sh  PATH_OF_ONT_FASTQ_FILE  NUMBER OF RANDOM READS REQUIRED   NUMBER 
 
 ![image](https://github.com/user-attachments/assets/aaa11b39-a600-489d-82ee-795d4b1903a5)
 
-![image](https://github.com/user-attachments/assets/3ed57980-af8f-4465-9694-1a66da855039)
+![image](https://github.com/user-attachments/assets/f2fac5f8-3bce-4d15-9233-c77e0fbc0d0f)
+
