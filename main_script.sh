@@ -57,7 +57,7 @@ while read -r  line; do
     echo "$target_line_start"
     echo "$target_line_end"
     
-    awk 'NR>=900505 && NR<=900508' $1  >> final.fastq
+    awk 'NR>=$target_line_start && NR<=$target_line_end' $1  >> final.fastq
     
 
 
